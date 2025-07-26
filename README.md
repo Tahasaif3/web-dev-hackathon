@@ -130,8 +130,8 @@ Navigate to `http://localhost:3000`
 
 - **User Account**:
 
-- Email: `demo@example.com`
-- Password: `demo123`
+- Email: `Enter your gmail`
+- Password: `Enter your password`
 
 
 
